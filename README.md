@@ -1,2 +1,2 @@
 # Linux-helpbook
-Cheat Sheet of Linux
+This is the Cheat Sheet of Linux.
